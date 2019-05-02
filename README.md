@@ -6,6 +6,8 @@ All the information about the bootcamp is located here: https://bootcamp.textile
 
 ## Bootcamp documentation
 
+[Handbook for the participants](http://fabricademy.fabcloud.io/bootcamp2019)
+
 ## Pictures and videos
 
 ## Travel journal
@@ -24,6 +26,7 @@ All the information about the bootcamp is located here: https://bootcamp.textile
 - Iceland [cloud cover](https://en.vedur.is/weather/forecasts/aurora/#type=composite) and [Kp-index](http://www.spaceweatherlive.com/en/help/the-kp-index) forecast
 - NOAA Aurora 30 minutes [forecast](https://www.swpc.noaa.gov/products/aurora-30-minute-forecast)
 - Moon Phase in [Iceland](https://www.timeanddate.com/moon/phases/iceland/reykjavik)
+- Probability of seeing [Auroras](https://earth.nullschool.net/#current/space/surface/level/anim=off/overlay=aurora/orthographic=-23.77,64.99,2787/loc=85.521,-55.393) Click on the map for the value
 
 #### Photography tips
 
