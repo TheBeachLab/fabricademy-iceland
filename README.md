@@ -1,16 +1,26 @@
 # Fabricademy Iceland 2019
 
-This is Francisco's public repository for Fabricademy Bootcamp May 13-19 2019, Iceland.
+This is Francisco's public repository for Fabricademy Bootcamp May 13-19 2019, Iceland. It has been a long time since I want to join Fabricademy. And the bootcamp is the best place to start grasping this universe.
 
-All the information about the bootcamp is located here: https://bootcamp.textile-academy.org/
+![](img/bootcamp-flyer-2.png)
+
+All the information about the bootcamp is located here: https://bootcamp.textile-academy.org/ There is only one bootcamp every year so if you are planning to
 
 ## Bootcamp documentation
 
-[Handbook for the participants](http://fabricademy.fabcloud.io/bootcamp2019)
+I read in the [Handbook for the participants](http://fabricademy.fabcloud.io/bootcamp2019) that is recommended to bring a computer with Illustrator, Rhino and Fusion360. I wonder what are those things. I will try to complete the bootcamp using only Linux software.
+
+![](img/challenge.jpg)
+
+So this is the plan
+
+![](img/fabricademy-bootcamp-2019-schedule.png)
 
 ## Pictures and videos
 
 ## Travel journal
+
+I will arrive a few days before the start of the  bootcamp. I am planning to rent a car and travel around on my own.
 
 ### Capturing the Northern Lights
 
