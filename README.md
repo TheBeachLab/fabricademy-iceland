@@ -4,7 +4,7 @@ This is Francisco's public repository for Fabricademy Bootcamp May 13-19 2019, I
 
 ![](img/bootcamp-flyer-2.png)
 
-All the information about the bootcamp is located here: https://bootcamp.textile-academy.org/ There is only one bootcamp every year so if you are planning to
+All the information about the bootcamp is located here: https://bootcamp.textile-academy.org/ There is **only one** bootcamp every year so if you are hesitating, this is the go / no-go point!
 
 ## Bootcamp documentation
 
@@ -15,8 +15,6 @@ I read in the [Handbook for the participants](http://fabricademy.fabcloud.io/boo
 So this is the plan
 
 ![](img/fabricademy-bootcamp-2019-schedule.png)
-
-## Pictures and videos
 
 ## Travel journal
 
