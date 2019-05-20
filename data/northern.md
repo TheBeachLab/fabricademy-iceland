@@ -1,5 +1,7 @@
 # Capturing the Northern Lights
 
+> All this effort was useless. In May it never gets dark in Iceland, it's all dusk. Sunrise is at 10:30 pm, sunrise at 04:00 am. The darkest time is around 01:30 am and you can see clearly without lights. So you will probably not be able to see stars or northern lights past mid April.
+
 ## Equipment
 
 - Tripod
